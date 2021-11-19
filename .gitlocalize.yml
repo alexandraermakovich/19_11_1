@@ -1,0 +1,6 @@
+pretranslate:
+  paths:
+  - source: .
+    include:
+      - "yml/*.*"
+      - "19.10.json"
