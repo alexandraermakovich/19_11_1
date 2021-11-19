@@ -1,0 +1,15 @@
+---
+university:
+  faculty:
+    law:
+    - nationale
+    - international
+    economics:
+    - commercialisation
+    - la gestion
+  law:
+  - nationale
+  - international
+  economics:
+  - commercialisation
+  - la gestion
