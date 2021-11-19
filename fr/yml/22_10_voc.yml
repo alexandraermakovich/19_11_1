@@ -1,0 +1,10 @@
+---
+students:
+- group 1:
+    name: Alexandra
+    faculty: loi
+    specialty: la loi internationale
+- group 2:
+    name: Lizavetta
+    faculty: économie
+    specialty: publicité
